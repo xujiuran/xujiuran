@@ -70,12 +70,12 @@
 ### 📈 GitHub 数据统计 / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xujiuran&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&bg_color=0d1117" alt="xujiuran's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xujiuran&layout=compact&theme=tokyonight&locale=cn&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xujiuran&show_icons=true&theme=tokyonight&locale=cn&border_radius=8" alt="xujiuran's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xujiuran&layout=compact&theme=tokyonight&locale=cn&border_radius=8" alt="Top Languages" height="175" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xujiuran&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<div align="center" style="margin-top: 12px;">
+  <img src="https://streak-stats.demolab.com/?user=xujiuran&theme=tokyonight&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
